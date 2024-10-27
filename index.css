@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 205, 252);
+}
+#content {
+    width: 530px;
+    height: 190px;
+    text-align: center;
+    font-size: 90%;
+    border: 5px solid #a54c4c;
+    transition: background-color 0.3s, color 0.3s;
+}
+button {
+    border-radius: 10px;
+    border: 2px #a54c4c solid;
+    color: white;
+    background-color: rgb(189, 189, 189);
+    width: 100px;
+    height: 30px;
+    font-size: 70%;
+}
+.Wight-mode {
+    background-color: rgb(250, 250, 250);
+    color: black;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
